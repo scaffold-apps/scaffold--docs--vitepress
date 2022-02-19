@@ -3,7 +3,7 @@ module.exports = {
   locales: {
     '/': {
       lang: 'en-US',
-      title: '<Project_name>',
+      title: 'My Docs Project',
       description: '🛠️ A description here'
     }
   },
